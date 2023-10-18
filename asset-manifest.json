@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Botirjon0708/React-Shop/static/css/main.ccfe8724.css",
-    "main.js": "/Botirjon0708/React-Shop/static/js/main.fd82f088.js",
-    "index.html": "/Botirjon0708/React-Shop/index.html",
-    "main.ccfe8724.css.map": "/Botirjon0708/React-Shop/static/css/main.ccfe8724.css.map",
-    "main.fd82f088.js.map": "/Botirjon0708/React-Shop/static/js/main.fd82f088.js.map"
+    "main.css": "//botirjon0708.github.io/React-Shop/static/css/main.ccfe8724.css",
+    "main.js": "//botirjon0708.github.io/React-Shop/static/js/main.fd82f088.js",
+    "index.html": "//botirjon0708.github.io/React-Shop/index.html",
+    "main.ccfe8724.css.map": "//botirjon0708.github.io/React-Shop/static/css/main.ccfe8724.css.map",
+    "main.fd82f088.js.map": "//botirjon0708.github.io/React-Shop/static/js/main.fd82f088.js.map"
   },
   "entrypoints": [
     "static/css/main.ccfe8724.css",
