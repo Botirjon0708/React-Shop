@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Botirjon0708/React-Shop/static/css/main.ccfe8724.css",
-    "main.js": "/Botirjon0708/React-Shop/static/js/main.8c1e1cfd.js",
+    "main.js": "/Botirjon0708/React-Shop/static/js/main.fd82f088.js",
     "index.html": "/Botirjon0708/React-Shop/index.html",
     "main.ccfe8724.css.map": "/Botirjon0708/React-Shop/static/css/main.ccfe8724.css.map",
-    "main.8c1e1cfd.js.map": "/Botirjon0708/React-Shop/static/js/main.8c1e1cfd.js.map"
+    "main.fd82f088.js.map": "/Botirjon0708/React-Shop/static/js/main.fd82f088.js.map"
   },
   "entrypoints": [
     "static/css/main.ccfe8724.css",
-    "static/js/main.8c1e1cfd.js"
+    "static/js/main.fd82f088.js"
   ]
 }
